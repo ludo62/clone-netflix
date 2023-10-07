@@ -12,7 +12,7 @@
        "description":"Une jeune femme solitaire, Sintel, aide et se lie d'amitié avec un dragon, qu'elle appelle Scales. Mais lorsqu'il est kidnappé par un dragon adulte, Sintel décide de se lancer dans une quête dangereuse pour retrouver son ami perdu Scales.",
        "videoUrl":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
        "thumbnailUrl":"http://uhdtv.io/wp-content/uploads/2020/10/Sintel-3.jpg",
-       "genre":"Adventure",
+       "genre":"Aventure",
        "duration":"15 minutes"
     },
     {
@@ -28,7 +28,7 @@
        "description":"Les amis Proog et Emo voyagent dans les replis d'une machine apparemment infinie, explorant le complexe sombre et tordu de fils, d'engrenages et de rouages, jusqu'à ce qu'un moment de conflit nie toutes leurs hypothèses.",
        "videoUrl":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
        "thumbnailUrl":"https://download.blender.org/ED/cover.jpg",
-       "genre":"Sci-Fi",
+       "genre":"Science-fiction",
        "duration":"15 minutes"
     }
  ]

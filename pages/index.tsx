@@ -4,6 +4,7 @@ import { NextPageContext } from 'next';
 import Navbar from '@/components/Navbar';
 import Billboard from '@/components/Billboard';
 import MovieList from '@/components/MovieList';
+import useMovieList from '@/hooks/useMovieList';
 
 export async function getServerSideProps(context: NextPageContext) {
 	const session = await getSession(context);
@@ -22,6 +23,7 @@ export async function getServerSideProps(context: NextPageContext) {
 }
 
 export default function Home() {
+	const { data: movies } = useMovieList();
 	return (
 		<>
 			<Head>
@@ -31,10 +33,10 @@ export default function Home() {
 				<link rel='icon' href='/favicon.ico' />
 			</Head>
 			<Navbar />
-			<div className='pb-40'>
-				<MovieList />
-			</div>
 			<Billboard />
+			<div className='pb-40'>
+				<MovieList title='À la mode maintenant' data={movies} />
+			</div>
 		</>
 	);
 }
