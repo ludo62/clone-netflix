@@ -1,4 +1,4 @@
-Créer un clone Netflix Fullstack avec React, NextJS, TailwindCSS et Prisma
+# Créer un clone Netflix Fullstack avec React, NextJS, TailwindCSS et Prisma
 
 ## Getting Started
 
