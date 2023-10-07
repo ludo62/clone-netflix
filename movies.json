@@ -1,0 +1,34 @@
+[
+    {
+       "title":"Lapin Big Buck",
+       "description":"Trois rongeurs s'amusent à harceler les créatures de la forêt. Cependant, alors qu'ils s'en prennent à un lapin, il décide de leur donner une leçon.",
+       "videoUrl":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+       "thumbnailUrl":"https://upload.wikimedia.org/wikipedia/commons/7/70/Big.Buck.Bunny.-.Opening.Screen.png",
+       "genre":"Comédie",
+       "duration":"10 minutes"
+    },
+    {
+       "title":"Sintel",
+       "description":"Une jeune femme solitaire, Sintel, aide et se lie d'amitié avec un dragon, qu'elle appelle Scales. Mais lorsqu'il est kidnappé par un dragon adulte, Sintel décide de se lancer dans une quête dangereuse pour retrouver son ami perdu Scales.",
+       "videoUrl":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+       "thumbnailUrl":"http://uhdtv.io/wp-content/uploads/2020/10/Sintel-3.jpg",
+       "genre":"Adventure",
+       "duration":"15 minutes"
+    },
+    {
+       "title":"Larmes d'acier",
+       "description":"Dans un futur apocalyptique, un groupe de soldats et de scientifiques se réfugient à Amsterdam pour tenter d'arrêter une armée de robots qui menace la planète.",
+       "videoUrl":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+       "thumbnailUrl":"https://mango.blender.org/wp-content/uploads/2013/05/01_thom_celia_bridge.jpg",
+       "genre":"Action",
+       "duration":"12 minutes"
+    },
+    {
+       "title":"Le rêve de l'éléphant",
+       "description":"Les amis Proog et Emo voyagent dans les replis d'une machine apparemment infinie, explorant le complexe sombre et tordu de fils, d'engrenages et de rouages, jusqu'à ce qu'un moment de conflit nie toutes leurs hypothèses.",
+       "videoUrl":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+       "thumbnailUrl":"https://download.blender.org/ED/cover.jpg",
+       "genre":"Sci-Fi",
+       "duration":"15 minutes"
+    }
+ ]
